@@ -13,8 +13,9 @@
 
 ## 相关资料推荐
 ### 1.关于docker和kubernetes简介
-请参看
-[k8s在电商应用_(docker&kubernetes) - 副本.pdf](http://example.com/ "With a Title")
+从小故事介绍为什么我们需要docker和kubernetes，请结合参看[k8s在电商应用_(docker&kubernetes) - 副本.pdf]("https://github.com/haoprogrammer/kubernetes-study/tree/master/pdf/umf")
+希望对你有所帮助
+
 
 #### 2.Kubernetes and Cloud Native Meetup
 请参看 [容器服务Docker&Kubernetes](https://yq.aliyun.com/teams/11/type_blog-cid_450-page_1)
