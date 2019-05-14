@@ -1,7 +1,7 @@
 #kubernetes  study
 
 1. [kubernetes系列：（一）、kubeadm搭建kubernetes（v1.13.1）单节点集群](https://www.cnblogs.com/haoprogrammer/p/10245561.html)
-
+2. [kubernetes系列：（二）、kubernetes部署mysql（单节点）](https://www.cnblogs.com/haoprogrammer/p/10827287.html)
 
 
 
