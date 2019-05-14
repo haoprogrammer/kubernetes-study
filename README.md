@@ -13,7 +13,7 @@
 
 ## 相关资料推荐
 ### 1.关于docker和kubernetes简介
-从小故事介绍为什么我们需要docker和kubernetes，请结合参看[k8s在电商应用_(docker&kubernetes) - 副本.pdf]("https://github.com/haoprogrammer/kubernetes-study/tree/master/pdf/umf")
+从小故事介绍为什么我们需要docker和kubernetes，请结合参看[k8s在电商应用_(docker&kubernetes) - 副本.pdf](https://github.com/haoprogrammer/kubernetes-study/blob/master/pdf/umf)
 希望对你有所帮助
 
 
